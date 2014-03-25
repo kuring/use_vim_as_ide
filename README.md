@@ -1,4 +1,1 @@
-use_vim_as_ide
-==============
-
-use_vim_as_ide
+请见 http://yangyangwithgnu.github.io/use_vim_as_ide/
